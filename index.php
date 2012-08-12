@@ -7,8 +7,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>TEST</title>
-        <meta charset="UTF-8" />
+        <meta charset="utf-8">
+        <title>html5 canvas particle generator</title>
+        <meta name="description" content="html5 canvas particle generato">
+        <meta name="keywords" content="html5, canvas, particle, generator, ensegundoplano, diego, vilariño, sond3">
+        <meta name="generator" content="ensegundoplano">
+        <meta name="author" content="ensegundoplano">
         <link type="text/css" href="styles.css" rel="stylesheet"/>
         <script type="text/javascript" src="libs/jquery-1.7.1.min.js"></script>
         <script type="text/javascript" src="libs/Stats.js"></script>
