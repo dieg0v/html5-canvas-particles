@@ -200,7 +200,7 @@ function init(){
     stats = new Stats();
     stats.setMode(0);
     stats.domElement.style.position = 'absolute';
-    stats.domElement.style.left = '10px';
+    stats.domElement.style.left = '150px';
     stats.domElement.style.top = '0px';
     document.body.appendChild( stats.domElement );
 
