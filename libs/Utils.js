@@ -18,6 +18,7 @@ function postwith (to,p) {
   var myForm = document.createElement("form");
   myForm.method="post" ;
   myForm.action = to ;
+  myForm.target="_blank";
   for (var k in p) {
     var myInput = document.createElement("input") ;
     myInput.setAttribute("name", k) ;
