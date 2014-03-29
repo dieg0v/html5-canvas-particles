@@ -2,7 +2,7 @@
 /**
 * @projectDescription   Canvas Particles Test
 *
-* @author   Diego Vilariño - http://www.ensegundoplano.com - @ensegundoplano - http://www.sond3.com
+* @author   Diego Vilariño - http://www.dieg0v.com - @dieg0v - http://www.sond3.com
 * @version  0.1
 */
 
